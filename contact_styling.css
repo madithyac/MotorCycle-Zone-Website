@@ -1,0 +1,76 @@
+html{
+    
+    background-image: url(contact.jpg);
+    background-size:cover;  
+        
+    ;
+
+}
+h{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 80px;
+    text-decoration: none;
+    color: white;
+    
+}
+h{
+    position: relative;
+    left: -100px;
+    top: -150px;
+
+}
+
+form{
+    position: absolute;
+    left: 440px;
+    top: 200px;
+}
+input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+input[type=text], select, textarea {
+    width: 3 0%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+.container{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    text-decoration: none;
+    color: white;
+position:absolute;
+top: 90px;
+left:-200px
+
+}
+submit{
+    position: relative;
+    top:48px;
+    left:430px;
+
+}
+note{
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
+    position:relative;
+    top: 80px; 
+    left: 570px;
+    font-size: 23px;
+
+}
+title{
+    font-family: serif;
+}
